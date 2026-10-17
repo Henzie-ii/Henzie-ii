@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Henzie 👋
 
-<!--
-**Henzie-ii/Henzie-ii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Backend Developer | Cybersecurity Analyst**
 
-Here are some ideas to get you started:
+I'm an IT student at NACIT,passionate about building software, designing backend systems, and exploring cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Languages:** Python, JavaScript, C#
+- ⚙️ **Backend:** Django, FastAPI, Django REST Framework
+- 🌐 **Frontend:** React, Tailwind CSS
+- 🗄️ **Databases:** PostgreSQL, MariaDB, MySQL
+- 🐳 **Tools:** Git, Docker, Linux
+- 🔐 **Interests:** Backend architecture, networking, and ethical hacking
+
+**Currently learning. Constantly building. Always improving.**
+
+📫 Contact: henzie.systems@gmail.com
