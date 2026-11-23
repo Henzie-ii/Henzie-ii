@@ -1,4 +1,4 @@
-# I'm Henry
+# I'm Henzie
 
 ### Software Engineer | Backend Developer | AI & Systems Engineering Enthusiast
 
@@ -76,7 +76,7 @@ Let's Connect
 I'm interested in collaborating with developers, engineers, and technology enthusiasts on meaningful projects involving software engineering, AI, automation, and cybersecurity.
 
 - GitHub: [Henzie-ii](https://github.com/Henzie-ii)
-- Email: 
+- Email: henzie.systems@gmail.com
 
 ---
 
