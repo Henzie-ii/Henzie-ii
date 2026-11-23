@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend Developer | AI & Systems Engineering architect
 
-I'm a software engineer passionate about designing, developing, and building scalable software systems. My interests revolve around backend engineering, system architecture, artificial intelligence, automation, and cybersecurity.
+I'm a software engineer passionate about designing, developing, and building scalable software systems. My interests revolve around backend engineering, system architecture, artificial intelligence, automation, and networking.
 
 I enjoy solving real-world problems through technology, understanding how systems work internally, and turning ideas into practical software solutions.
 
