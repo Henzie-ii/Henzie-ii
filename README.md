@@ -1,6 +1,6 @@
 # I'm Henzie
 
-### Software Engineer | Backend Developer | AI & Systems Engineering Enthusiast
+### Software Engineer | Backend Developer | AI & Systems Engineering architect
 
 I'm a software engineer passionate about designing, developing, and building scalable software systems. My interests revolve around backend engineering, system architecture, artificial intelligence, automation, and cybersecurity.
 
